@@ -1,2 +1,2 @@
-# codecademy
-my codecademy projects
+# CodeCademy
+My codecademy projects
